@@ -1,4 +1,4 @@
-### Hey, I am CodEdith - Akshita Sharma 👋
+## Hey, I am CodEdith - Akshita Sharma 👋
 
 <!--
 **codedith/codedith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
